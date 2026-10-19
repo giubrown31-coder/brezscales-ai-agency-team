@@ -37,9 +37,9 @@ If a **Client Brief** is in the conversation, use it. Otherwise ask in **one mes
 - Placements: Advantage+ placements, with 9:16 and 4:5 versions of every creative.
 
 ### 4. Naming
-- Campaign: `CLIENT | LEADS | OFFER | YYYY-MM`
-- Ad set: `GEO | BROAD | FORM or SITE`
-- Ad: `ANGLE | FORMAT | V1` (for example `LOCAL | VIDEO | V1`)
+- Campaign: `CLIENT_LEADS_OFFER_YYYY-MM`
+- Ad set: `GEO_BROAD_FORM` or `GEO_BROAD_SITE`
+- Ad: `ANGLE_FORMAT_V1` (for example `LOCAL_VIDEO_V1`)
 
 ### 5. Tracking checklist
 - Pixel (dataset) installed and firing a Lead event on the thank you page, if using a landing page.
