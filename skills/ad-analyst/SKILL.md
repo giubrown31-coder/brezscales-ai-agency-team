@@ -19,7 +19,7 @@ Never invent a number. If a column is missing, say what's missing and judge only
 
 Definitions: **near target** = within 20 percent of the target cost per lead. **Fair spend** = at least 3× the target cost per lead. **Clearly under** = 20 percent or more below target.
 
-1. **Too early:** spent less than 2× the target cost per lead and has at least one lead, or spent less than 2× with zero leads. Leave it.
+1. **Too early:** spent less than 2× the target cost per lead. Leave it.
 2. **Kill:** spent 2× the target or more with zero leads, or cost per lead more than 2× the target after fair spend.
 3. **Watch:** cost per lead between near target and 2× the target. Keep it running, and fix the cause below (usually the creative or the offer).
 4. **Keep:** cost per lead near target.
