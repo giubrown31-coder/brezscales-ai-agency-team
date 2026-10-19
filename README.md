@@ -71,4 +71,6 @@ Just talk to Claude. The skills turn on when the job matches.
 
 ---
 
+The compliance notes in these skills are practical guardrails, not legal advice.
+
 v1.0, October 2026. Private. For BrezScales bootcamp members only. Do not share or resell.
