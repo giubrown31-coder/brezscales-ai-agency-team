@@ -38,15 +38,17 @@ The Onboarder writes the **Client Brief**. Every other skill reads it, so you an
 ## Install
 
 **Claude (claude.ai or the desktop app)**
+Custom skills need a paid Claude plan (Pro, Max, Team or Enterprise) with code execution turned on.
 1. Download the zip for each skill from the [`zips`](zips/) folder.
-2. In Claude, open Settings and find **Skills** (under Capabilities). Turn on code execution if Claude asks.
-3. Click **Upload skill** and pick the zip. Repeat for all ten.
+2. In Claude's settings, turn on **Code execution and file creation**.
+3. Find **Skills** and click **Upload skill** (in some versions: the + button, Create skill, Upload a skill). Upload one zip at a time, all ten.
 
 **Claude Code**
+Unzip each skill into your skills folder:
 ```bash
-git clone <this repo>
-cp -r skills/* ~/.claude/skills/
+unzip client-onboarder.zip -d ~/.claude/skills
 ```
+Or, from a copy of this repo: `cp -r skills/* ~/.claude/skills/`
 
 ## Use it
 
@@ -64,6 +66,7 @@ Just talk to Claude. The skills turn on when the job matches.
 - No fake numbers, fake reviews, fake results or fake urgency. Missing information gets asked for, never guessed.
 - Everything the client sees is written in plain English, in the owner's own voice.
 - Ad spend is paid by the client straight to Meta. The agency's retainer is a separate line.
+- Leads are only texted with consent from the form, with STOP honored and no texts at night.
 - Meta policy: no ads that imply they know a viewer's personal traits, and Special Ad Categories are flagged for housing, credit and jobs.
 
 ---
