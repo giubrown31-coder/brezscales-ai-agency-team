@@ -24,11 +24,11 @@ If a **Client Brief** is in the conversation, use it. Otherwise ask in **one mes
 - **Weekly spend** = daily budget × 7.
 - **Target cost per lead** = the most they'd pay for a customer × the share of leads that become customers. Example: $300 per customer and 1 in 5 leads buys, so the target is $60 per lead. If the close rate is unknown, start with 1 in 5 for website or call leads, 1 in 8 for instant form leads, 1 in 15 for real estate. Say which you used, and recompute after 20 real leads.
 - **Leads per week at target** = weekly spend ÷ target cost per lead.
-- **How many ads to run** = (daily budget × 14) ÷ (2 × target cost per lead), rounded down, at least 1, at most 5. This lets every ad spend enough to be judged within two weeks.
+- **How many ads to run** = (daily budget × 14) ÷ (2 × target cost per lead), rounded down, at least 1, at most 5. This lets every ad spend enough to be judged within two weeks. If fewer ads are ready than this, use the number ready and compute the first read day with that.
 - **First real read day** = (2 × target cost per lead × number of ads) ÷ daily budget, rounded up, and never before day 7.
-- **Customers per month at target** = leads per week × 4.3 × the close rate. Compare it to THE GOAL in the brief. If it falls short, say so before launch, with the daily budget the goal would need.
+- **Customers per month at target** = leads per week × 4.3 × the close rate. Compare it to THE GOAL in the brief. If it falls short, say so before launch, with the daily budget the goal needs = goal customers ÷ close rate × target cost per lead ÷ 30.4.
 - **Minimum daily budget** for about 10 leads a week = target cost per lead × 10 ÷ 7.
-- If leads per week at target is under 7, write: "Thin budget: about X leads a week, so N ads, first real read on day D. 'Learning limited' in Ads Manager is normal at this size. Only more spend speeds it up."
+- If leads per week at target is under 7, write: "Thin budget: about X leads a week, so N ads, first real read on day D. 'Learning limited' in Ads Manager is normal at this size. Only more spend speeds it up. About 10 leads a week would need $M a day."
 
 ### 2. Campaign setup
 - **Objective:** Leads.

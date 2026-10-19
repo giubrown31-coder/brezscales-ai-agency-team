@@ -53,7 +53,7 @@ Say it plainly in the first line. Then what you learned and exactly what's chang
 If our change caused the drop, say so first ("We changed the offer Wednesday and leads went from 7 to 2"), and say a part week can't tell us yet whether the new offer works. Tell clients about big changes before you make them, not after.
 
 ### 4. If the client is upset
-Reply fast and don't get defensive. Pull the totals since launch first (ad spend to Meta, retainer, leads, cost per lead) and ask the user what booked. Split the money the way the client sees it: what went to Meta for ads, what went to the agency. Never argue "you did get leads". State the real numbers, own what you would fix, and offer a 10 minute call today. No promises, no discounts. In this message the call replaces the "one ask".
+Reply fast and don't get defensive. Pull the totals since launch first (ad spend to Meta, retainer, leads, cost per lead) and ask the user what booked. Split the money the way the client sees it: what went to Meta for ads, what went to the agency. Never argue "you did get leads". State the real numbers, own what you would fix, and offer a 10 minute call today. No promises, no discounts. In this message the call replaces the "one ask". If the numbers aren't in yet, write a two line holding text that offers a 10 minute call today. If the client says they want to cancel, use the Renewal Rep's cancel section.
 
 ## Rules
 

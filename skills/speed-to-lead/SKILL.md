@@ -34,7 +34,7 @@ Open with their name and the offer they asked for, one question about what they 
 
 Each text under 300 characters, sounds like a person, one question or one link per text (the first text may have one of each). Use the lead's first name as a merge field ({{first_name}}). Plain characters only: no emoji, curly quotes or long dashes, and no link shorteners. No booking link? End with "Reply with a good time or call [number]."
 
-**After hours leads:** email right away, but no texts or calls until the next morning (8 AM or opening, whichever is later). Skip the 15 minute and same evening texts. Any text due outside the allowed hours moves to the next morning.
+**After hours leads** (outside business hours, or outside 8 AM to 8 PM in the lead's time zone): email a one line confirmation with the booking link right away. Text right away only if it's before 8 PM their time, otherwise at 8 AM or opening, whichever is later. Calls wait for business hours. Skip the 15 minute and same evening texts. If the first text goes out the next morning, the Day 1 text moves to the morning after. Any text due outside the allowed hours moves to the next morning.
 
 ### 3. The email sequence
 Same timing as the day 1, 3, 7 and 14 texts. Subject line under 40 characters, five body lines or fewer, one link, and a footer with the business name, mailing address and an unsubscribe link.
@@ -56,9 +56,10 @@ Same timing as the day 1, 3, 7 and 14 texts. Subject line under 40 characters, f
 
 ## Rules (texting law and decency)
 
-- Only text people who filled out the form and gave their number for this.
+- Only text people who filled out a form that says they agree to get calls and texts from the business. If the form has no consent line, ask the Page Writer to add one first.
 - The first text names the business and ends with "Reply STOP to opt out."
 - No texts before 8 AM or after 8 PM in the lead's time zone (some states are stricter than the federal 9 PM, so 8 PM is safe everywhere). Use the area code to guess the time zone.
 - Never pretend to be someone you're not, and never promise a price the business hasn't set.
-- Opt outs: STOP, STOPALL, UNSUBSCRIBE, CANCEL, END, QUIT or "don't text me" end every text and email. If that person texts first later, answer that one conversation, add "Reply START anytime to get texts from us again," and never restart the sequence.
+- Opt outs: STOP, STOPALL, UNSUBSCRIBE, CANCEL, END, QUIT, REVOKE, OPT OUT or "don't text me" end every text and email. If that person reaches out later, answer that one conversation by phone during business hours if you can. If you must text, send one reply that answers the question, add "Reply START anytime to get texts from us again," and never restart the sequence.
+- If a lead texts you first, you can answer their question right away, but never restart the sequence or send anything promotional at night.
 - Close with: "Next: launch, then on the first real read day from the Media Buyer, paste the numbers into the Analyst."

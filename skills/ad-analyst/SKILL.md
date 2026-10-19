@@ -28,7 +28,9 @@ Definitions: **near target** = within 20 percent of the target cost per lead, ed
 2. **Kill:** spent 2× the target or more with zero leads, or cost per lead more than 2× the target after fair spend, or still above near target after a Watch week and another 2× target spend.
 3. **Watch:** past 2× spend and cost per lead above near target, but not a kill yet. It gets one more week. Fix the cause below.
 4. **Keep:** cost per lead near target.
-5. **Scale:** cost per lead clearly under target, with at least 2× target spend, 3 or more days live and 5 or more leads. Otherwise call it Keep or Too early.
+5. **Scale:** cost per lead clearly under target, with at least 2× target spend, 3 or more days live and 5 or more leads. Otherwise it's Too early if live under 3 days or spent under 2× target, else Keep.
+
+If the ads' lead count doesn't match the client's lead log, say so and ask before judging the follow up.
 
 **How to scale:** get the client's OK before raising spend, since it's their card. First pause the losers in the same ad set, which moves spend to the winner by itself. Then raise the ad set budget about 20 percent and wait 3 to 4 days before raising again. If the winner shares an ad set with ads still marked too early, say that a budget raise feeds them too.
 

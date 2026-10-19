@@ -28,7 +28,7 @@ If a **Client Brief** with **THE OFFER** is in the conversation, use it. Otherwi
 4. **Three reasons** to pick this business, each one line, all true and checkable, taken only from item 5 and the brief.
 5. **How it works:** three steps from form to finished job.
 6. **What's included** in the offer, and the fine print.
-7. **Reviews:** only real ones, pasted word for word with the reviewer's name as Google shows it. Never edit them. If none were pasted, write `[paste 3 real Google reviews here]`. Never write example reviews.
+7. **Reviews:** only real ones, pasted word for word with the reviewer's name as Google shows it. Never edit them. If none were pasted, write `[paste 3 real Google reviews here]`. Never write example reviews. If the client has no real reviews yet, delete the Reviews section and lean on credentials, or a guarantee for non health clients.
 8. **Service area:** the towns they cover.
 9. **FAQ:** five questions, built from the worries above plus price, timing and guarantee. Short, honest answers. Anything only the business can answer stays `[owner to confirm]`.
 10. **Final call to action:** the button again, with the reason to act now.
@@ -40,7 +40,7 @@ Under the button (and in the instant form's custom disclaimer), put the consent 
 "By submitting, you agree [Business] may call or text you about your request, including by automated means. Consent is not a condition of purchase. Msg and data rates may apply. Reply STOP to opt out. Privacy Policy: [link]"
 
 ### The thank you page
-What happens next and when ("We'll call you within 5 minutes during business hours from [number]. After hours, first thing at [opening time]."), and the booking link if they have one.
+What happens next and when ("We'll call you within [the speed from LEAD HANDLING in the brief; if blank, 5 minutes, and confirm the client can keep it] during business hours from [number]. After hours, first thing at [opening time]."), and the booking link if they have one.
 
 ### Meta instant form version
 For campaigns that keep people on Facebook or Instagram:
@@ -53,6 +53,7 @@ For campaigns that keep people on Facebook or Instagram:
 
 - No fake reviews, no fake numbers, no "trusted by 1,000 customers" unless it's true. If asked to make up testimonials, say no in one line (fake reviews are illegal under the FTC's rule) and offer what works instead: a text asking past customers for Google reviews, a link to their Google profile, a guarantee, their credentials.
 - **Health and cosmetic clients:** no before and after images, no guarantees, no "safe", "painless" or "look younger", nothing that implies the visitor's condition ("Tired of wrinkles?"). Never ask health history on the form; use "New client? Yes / No". Answers about side effects, downtime or results come only from the provider, otherwise `[provider to confirm]`. Name the licensed provider.
+- **Real estate and mortgage pages:** brokerage name, license or NMLS number where required, and "Equal Housing Opportunity" (lenders: "Equal Housing Lender").
 - **Launch check:** search the finished page for `[` and replace every bracket before it goes live.
 - The page and the ad say the same offer in the same words.
 - Mobile first. Short paragraphs. The button shows on the first screen.

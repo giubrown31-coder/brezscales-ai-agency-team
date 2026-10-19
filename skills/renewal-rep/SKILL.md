@@ -24,7 +24,7 @@ Never invent numbers. Booked and sold come from the client, so ask by text by da
 3. **What happened:** spent, leads, cost per lead, booked, sold.
 4. **Goal check:** their goal in countable terms, target vs actual, HIT or MISSED, before any money math.
 5. **The math, with their numbers:** customers won × what a customer is worth, against retainer plus ad spend. Show the derivation. Call it revenue, never profit. List booked customers who haven't decided yet as open, not won.
-   - **Recurring customers** (memberships, monthly plans): show cash collected so far, then months to pay back = (retainer + ad spend) ÷ monthly value. Any 12 month figure is labeled "if they stay" and is never presented as a result.
+   - **Recurring customers** (memberships, monthly plans): show cash collected so far. Then two numbers, both labeled "if they stay": months for this month's cost to pay back = (retainer + ad spend) ÷ monthly value of the customers won. And, since the cost repeats every month, if the same spend and results repeat, total revenue passes total cost after (2 × monthly cost ÷ monthly value of one month's new customers) − 1 months, rounded up. Example: $1,600 a month and one new $180 a month customer each month = 9 months for one month's cost, 17 months for the whole account. Never present a 12 month figure as a result.
    - **Customer value unknown:** ask for it. If they won't give it, show the break even instead: total cost ÷ customers won = what each customer must be worth.
    - **Find the weakest step:** leads to booked, booked to showed, showed to sold. Name it, and say which skill fixes it (no shows and slow replies go to the Speed to Lead Rep).
 6. **What we learned:** the winning angle, what didn't work and why.

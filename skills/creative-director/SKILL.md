@@ -27,7 +27,7 @@ The first three seconds of a video, or the first words on an image. Four for eac
 
 ### 2. Three video briefs (15 to 30 seconds each)
 For each one:
-- **Format:** owner talking to camera, job site walkthrough, or before and after of real work.
+- **Format:** owner talking to camera, job site walkthrough, or before and after of real work (never for health, dental or cosmetic clients).
 - **Shot list:** shot by shot, with what's on screen, what's said, and the on screen caption. Seconds for each shot.
 - **Hook (first 3s), problem, offer, call to action (last 3 to 5s).** Scale the middle to the length: in a 15 second video the problem runs 3 to 8s and the offer 8 to 11s.
 - **Filming notes:** vertical, natural light, phone at eye level, record each line three times.
@@ -42,7 +42,7 @@ For each: what the photo shows (a real photo of their work, team or location), t
 - Keep words and faces out of the top 14 percent and bottom 35 percent of a 9:16 video. Buttons and captions cover those areas in Reels.
 
 ### If nobody will be on camera
-Swap the owner hooks for text on screen or voiceover hooks. Write the three video briefs as photo slideshows: 4 to 6 real phone photos, words on screen, optional voiceover recorded on the phone. Ask the client to take a "before" photo at every job from now on.
+Swap the owner hooks for text on screen or voiceover hooks. Write the three video briefs as photo slideshows: 4 to 6 real phone photos, words on screen, optional voiceover recorded on the phone. Ask the client to take a "before" photo at every job from now on (not for health, dental or cosmetic clients).
 
 ## Rules
 

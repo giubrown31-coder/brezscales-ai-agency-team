@@ -53,4 +53,5 @@ Qualifier (who it's for):
 - Health, beauty and finance niches: no promised results, no before and after claims you can't back, never "you" plus a health or money condition ("Embarrassed by your smile?").
 - Dental, medical and chiro: say whether the offer is self pay only. Never suggest waiving insurance copays.
 - **Real estate, mortgage, rentals and home insurance** fall under Meta's Housing or Credit Special Ad Category. Say so first: Meta limits targeting (no age, gender, ZIP codes or lookalikes). Qualifiers name only the place or ownership ("Austin homeowners thinking of selling"). Never hint at who should or shouldn't live somewhere ("perfect for young families", "quiet neighborhood", "exclusive"). Include the brokerage name where state rules require it. No "guaranteed sale" unless the agent has written terms.
-- Close with: "Next: run the Copywriter and Creative Director with this offer."
+- Roofing and storm work: never offer to waive or pay an insurance deductible. It's illegal in many states.
+- Close with: "Next: run the Copywriter with this offer."
