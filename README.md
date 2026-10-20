@@ -44,7 +44,7 @@ You need a paid Claude plan: Pro or Max. The free plan doesn't include Claude Co
 3. If it asks for a folder, open any folder. Your Desktop is fine.
 4. Paste this and press Enter:
    ```
-   Install all the skills from https://github.com/giubrown31-coder/brezscales-ai-agency-team
+   Install all the skills from https://github.com/giuseppebrownllc/brezscales-ai-agency-team
    ```
 5. Click Allow when Claude asks to run a command or create files.
 6. When it says it's done, start a new session and type `/skills`. All ten should be on the list.
@@ -70,7 +70,7 @@ To update later, paste the same line again. Claude replaces the old copies with 
 
 When someone asks you to install the skills from this repo:
 
-1. Download the repo into a temporary folder. Use `git clone --depth 1 https://github.com/giubrown31-coder/brezscales-ai-agency-team.git`. If git isn't installed, download https://github.com/giubrown31-coder/brezscales-ai-agency-team/archive/refs/heads/main.zip and unzip it instead.
+1. Download the repo into a temporary folder. Use `git clone --depth 1 https://github.com/giuseppebrownllc/brezscales-ai-agency-team.git`. If git isn't installed, download https://github.com/giuseppebrownllc/brezscales-ai-agency-team/archive/refs/heads/main.zip and unzip it instead.
 2. Create the personal skills folder if it doesn't exist: `~/.claude/skills` (on Windows, `%USERPROFILE%\.claude\skills`).
 3. Copy every folder inside `skills/` into that personal skills folder. Each one holds a `SKILL.md`. If a folder with the same name already exists, replace it. Copy nothing else from the repo.
 4. Check that all ten folders are there, each with its `SKILL.md`: client-onboarder, offer-builder, ad-copywriter, creative-director, page-writer, media-buyer, speed-to-lead, ad-analyst, account-manager, renewal-rep.
