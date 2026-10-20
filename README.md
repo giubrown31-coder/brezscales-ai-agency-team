@@ -33,26 +33,27 @@ Kickoff call → 1 Onboarder → Client Brief
                    day 30: 10 Renewal Rep
 ```
 
-The Onboarder writes the **Client Brief**. Every other skill reads it, so you answer the client questions once. Keep the brief in the same Claude project or chat as the client's work.
+The Onboarder writes the **Client Brief**. Every other skill reads it, so you answer the client questions once. Keep the brief in the client's folder with the rest of their work.
 
-## Install
+## Install (about 5 minutes)
 
-**Claude (claude.ai or the desktop app)**
-Custom skills need a paid Claude plan (Pro, Max, Team or Enterprise) with code execution turned on.
-1. Download the zip for each skill from the [`zips`](zips/) folder.
-2. In Claude's settings, turn on **Code execution and file creation**.
-3. Find **Skills** and click **Upload skill** (in some versions: the + button, Create skill, Upload a skill). Upload one zip at a time, all ten.
+You need a paid Claude plan: Pro, Max, Team or Enterprise. The free plan doesn't include Claude Code.
 
-**Claude Code**
-Unzip each skill into your skills folder:
-```bash
-unzip client-onboarder.zip -d ~/.claude/skills
-```
-Or, from a copy of this repo: `cp -r skills/* ~/.claude/skills/`
+1. Download the Claude desktop app at [claude.ai/download](https://claude.ai/download) and sign in.
+2. Click the **Code** tab at the top.
+3. If it asks for a folder, open any folder. Your Desktop is fine.
+4. Paste this and press Enter:
+   ```
+   Install all the skills from https://github.com/giubrown31-coder/brezscales-ai-agency-team
+   ```
+5. Click Allow when Claude asks to run a command or create files.
+6. When it says it's done, start a new session and type `/skills`. All ten should be on the list.
+
+That's it. No downloads, no zip files, no terminal.
 
 ## Use it
 
-Just talk to Claude. The skills turn on when the job matches.
+Open the **Code** tab and just talk to Claude. The skills turn on when the job matches.
 
 - "Here's my kickoff call with a roofer in Raleigh, build the client brief." → The Onboarder
 - "Write the offer for this client." → The Offer Builder
@@ -61,6 +62,21 @@ Just talk to Claude. The skills turn on when the job matches.
 - "Write this week's client report." → The Account Manager
 - "Their first 30 days end Friday, build the review." → The Renewal Rep
 
+Keep each client in its own folder so the Client Brief and the client's work stay together.
+
+To update later, paste the same line again. Claude replaces the old copies with the new ones.
+
+## For Claude: how to install these skills
+
+When someone asks you to install the skills from this repo:
+
+1. Download the repo into a temporary folder. Use `git clone --depth 1 https://github.com/giubrown31-coder/brezscales-ai-agency-team.git`. If git isn't installed, download https://github.com/giubrown31-coder/brezscales-ai-agency-team/archive/refs/heads/main.zip and unzip it instead.
+2. Create the personal skills folder if it doesn't exist: `~/.claude/skills` (on Windows, `%USERPROFILE%\.claude\skills`).
+3. Copy every folder inside `skills/` into that personal skills folder. Each one holds a `SKILL.md`. If a folder with the same name already exists, replace it. Copy nothing else from the repo.
+4. Check that all ten folders are there, each with its `SKILL.md`: client-onboarder, offer-builder, ad-copywriter, creative-director, page-writer, media-buyer, speed-to-lead, ad-analyst, account-manager, renewal-rep.
+5. Delete the temporary download.
+6. Tell the user, in plain words, that the ten skills are installed, list them by their team names (The Onboarder, The Offer Builder, and so on), and tell them to start a new session and type `/skills` to see them. Don't show them commands or file paths unless they ask.
+
 ## Rules every skill follows
 
 - No fake numbers, fake reviews, fake results or fake urgency. Missing information gets asked for, never guessed.
@@ -68,6 +84,10 @@ Just talk to Claude. The skills turn on when the job matches.
 - Ad spend is paid by the client straight to Meta. The agency's retainer is a separate line.
 - Leads are only texted with consent from the form, with STOP honored and no texts at night.
 - Meta policy: no ads that imply they know a viewer's personal traits, and Special Ad Categories are flagged for housing, credit and jobs.
+
+## Using Claude in the browser instead?
+
+The desktop app is the easy way. If you only use claude.ai in a browser, turn on **Code execution and file creation** in Settings, then upload each zip from the [`zips`](zips/) folder under **Skills**, **Upload skill**, one at a time.
 
 ---
 
