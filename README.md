@@ -37,7 +37,7 @@ The Onboarder writes the **Client Brief**. Every other skill reads it, so you an
 
 ## Install (about 5 minutes)
 
-You need a paid Claude plan: Pro, Max, Team or Enterprise. The free plan doesn't include Claude Code.
+You need a paid Claude plan: Pro or Max. The free plan doesn't include Claude Code.
 
 1. Download the Claude desktop app at [claude.ai/download](https://claude.ai/download) and sign in.
 2. Click the **Code** tab at the top.
